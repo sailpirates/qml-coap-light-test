@@ -1,0 +1,3 @@
+[submodule "src/qtcoap"]
+	path = src/qtcoap
+	url = https://github.com/t-mon/qtcoap.git
